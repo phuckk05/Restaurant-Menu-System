@@ -1,0 +1,16 @@
+D:\LTUD\Restaurant_Menu_System\GUI_restaurant_menu_system\obj\Debug\GUI_restaurant_menu_system.csproj.AssemblyReference.cache
+D:\LTUD\Restaurant_Menu_System\GUI_restaurant_menu_system\obj\Debug\GUI_restaurant_menu_system.FormChinh.resources
+D:\LTUD\Restaurant_Menu_System\GUI_restaurant_menu_system\obj\Debug\GUI_restaurant_menu_system.Properties.Resources.resources
+D:\LTUD\Restaurant_Menu_System\GUI_restaurant_menu_system\obj\Debug\GUI_restaurant_menu_system.csproj.GenerateResource.cache
+D:\LTUD\Restaurant_Menu_System\GUI_restaurant_menu_system\obj\Debug\GUI_restaurant_menu_system.csproj.CoreCompileInputs.cache
+D:\LTUD\Restaurant_Menu_System\GUI_restaurant_menu_system\bin\Debug\GUI_restaurant_menu_system.exe.config
+D:\LTUD\Restaurant_Menu_System\GUI_restaurant_menu_system\bin\Debug\GUI_restaurant_menu_system.exe
+D:\LTUD\Restaurant_Menu_System\GUI_restaurant_menu_system\bin\Debug\GUI_restaurant_menu_system.pdb
+D:\LTUD\Restaurant_Menu_System\GUI_restaurant_menu_system\bin\Debug\BUS_restaurant_menu_system.dll
+D:\LTUD\Restaurant_Menu_System\GUI_restaurant_menu_system\bin\Debug\ET_restaurant_menu_system.dll
+D:\LTUD\Restaurant_Menu_System\GUI_restaurant_menu_system\bin\Debug\BUS_restaurant_menu_system.pdb
+D:\LTUD\Restaurant_Menu_System\GUI_restaurant_menu_system\bin\Debug\ET_restaurant_menu_system.pdb
+D:\LTUD\Restaurant_Menu_System\GUI_restaurant_menu_system\obj\Debug\GUI_restaurant_menu_system.csproj.CopyComplete
+D:\LTUD\Restaurant_Menu_System\GUI_restaurant_menu_system\obj\Debug\GUI_restaurant_menu_system.exe
+D:\LTUD\Restaurant_Menu_System\GUI_restaurant_menu_system\obj\Debug\GUI_restaurant_menu_system.pdb
+D:\LTUD\Restaurant_Menu_System\GUI_restaurant_menu_system\obj\Debug\GUI_restaurant_menu_system.FormChiTiet.resources

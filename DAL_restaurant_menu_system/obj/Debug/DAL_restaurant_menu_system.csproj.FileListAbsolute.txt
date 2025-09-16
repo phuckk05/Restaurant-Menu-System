@@ -1,0 +1,9 @@
+D:\LTUD\Restaurant_Menu_System\DAL_restaurant_menu_system\bin\Debug\DAL_restaurant_menu_system.dll
+D:\LTUD\Restaurant_Menu_System\DAL_restaurant_menu_system\bin\Debug\DAL_restaurant_menu_system.pdb
+D:\LTUD\Restaurant_Menu_System\DAL_restaurant_menu_system\bin\Debug\ET_restaurant_menu_system.dll
+D:\LTUD\Restaurant_Menu_System\DAL_restaurant_menu_system\bin\Debug\ET_restaurant_menu_system.pdb
+D:\LTUD\Restaurant_Menu_System\DAL_restaurant_menu_system\obj\Debug\DAL_restaurant_menu_system.csproj.AssemblyReference.cache
+D:\LTUD\Restaurant_Menu_System\DAL_restaurant_menu_system\obj\Debug\DAL_restaurant_menu_system.csproj.CoreCompileInputs.cache
+D:\LTUD\Restaurant_Menu_System\DAL_restaurant_menu_system\obj\Debug\DAL_restaurant_menu_system.csproj.CopyComplete
+D:\LTUD\Restaurant_Menu_System\DAL_restaurant_menu_system\obj\Debug\DAL_restaurant_menu_system.dll
+D:\LTUD\Restaurant_Menu_System\DAL_restaurant_menu_system\obj\Debug\DAL_restaurant_menu_system.pdb
